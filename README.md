@@ -1,6 +1,7 @@
 # DeepGamingAI_FIFAVA
 A voice-assistant for the game of FIFA (windows platform) to control game actions with your voice.
 
+Click the image below to see the project video on YouTube.
 <a href="https://www.youtube.com/watch?v=QhDnMHmoadQ" target="_blank"><img src="https://github.com/ChintanTrivedi/DeepGamingAI_FIFAVA/blob/master/fifa_voice_assistant.png" 
 alt="YOUTUBE VIDEO" width="800" height="480"  /></a>
 
