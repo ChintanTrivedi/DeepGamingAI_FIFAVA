@@ -5,6 +5,9 @@ Click the image below to see the project video on YouTube.
 <a href="https://www.youtube.com/watch?v=QhDnMHmoadQ" target="_blank"><img src="https://github.com/ChintanTrivedi/DeepGamingAI_FIFAVA/blob/master/fifa_voice_assistant.png" 
 alt="YOUTUBE VIDEO" width="800" height="480"  /></a>
 
+# Tutorial/Blog
+[Blogpost and tutorial on medium](https://medium.com/@chintan.t93/creating-voice-assistant-for-games-tutorial-for-fifa-71cfbe428bd1)
+
 # Dependencies
 1. Install porcupine keyword detection engine from [this github repo](https://github.com/Picovoice/Porcupine).
 2. PyAudio
